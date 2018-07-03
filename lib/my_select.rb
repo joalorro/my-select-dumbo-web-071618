@@ -13,7 +13,7 @@ def my_select(collection)
     i += 1 
   end
   
-  puts newArr
+  newArr
   
 end
 
